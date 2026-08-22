@@ -7,8 +7,6 @@ Minha meta é unir meu olhar estético, visão de usuário e conhecimento analí
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Estou aprendendo**
-
 **Linguagens e Web**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
