@@ -1,7 +1,8 @@
 ## Oi, pode me chamar de Lui! ✨
 
-Meu nome é Luísa Mohr Fraeb, tenho 28 anos e sou de Porto Alegre, RS. Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos e residente no Programa de Residência em TIC55, promovido pela Brisa e Unisinos. Tenho formação em Design Visual pelas UFRGS e experiência profissional como Motion Designer, segmento em que trabalhei por 3 anos. Atualmente estou fazendo a transição para a área da tecnologia.
-Minha meta é unir meu olhar estético, visão de usuário e conhecimento analítico adquirido na graduação de Design com a lógica e execução técnica do desenvolvimento de sistemas. Por conta dessa bagagem, tenho interesse no campo de Qualidade de Software (QA) e pretendo focar meus estudos para me aprofundar nessa área.
+Meu nome é Luísa Mohr Fraeb, tenho 28 anos e sou de Porto Alegre, RS. Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos e residente no Programa de Residência em TIC55, promovido pela Brisa, Unisinos e Softex. Tenho formação em Design Visual pelas UFRGS e 3 anos de experiência profissional como Motion Designer. Atualmente estou fazendo a transição para a área da tecnologia.
+
+Meu objetivo é unir esse olhar estético, a visão de usuário e a minha bagagem visual à lógica de programação, com foco especial na construção de interfaces no Frontend. Além disso, busco estruturar minhas soluções com alto rigor de organização e atenção aos fluxos, o que me desperta muito interesse em estudar e me aprofundar na área de Qualidade de Software (QA).
 
 ---
 
