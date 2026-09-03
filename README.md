@@ -6,7 +6,7 @@ Meu objetivo é unir esse olhar estético, a visão de usuário e a minha bagage
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Linguagens e Web**
 
